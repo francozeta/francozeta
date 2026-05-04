@@ -1,15 +1,68 @@
-# 💫 About Me:
-I'm a passionate 19-year-old programmer from Peru, currently studying a technical degree in software development and design. I love exploring new technologies and challenges, always seeking to improve my skills and learn something new every day.
+# Franco Zeta
 
+UI Systems · DX · Product Thinking
 
-# 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/7A2yfG3N) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frxnco.zeta)
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=francozeta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=francozeta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I build frontend experiences where interface quality and developer experience matter equally. My focus is on product-grade UI, scalable interaction patterns, and details that make software feel deliberate.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=francozeta&limit=5&theme=dark&combine_all_yearly_contributions=true)
-  
+<p>
+  <img src="https://shieldcn.dev/badge/ui_systems-frontend-blue.png?variant=secondary&size=sm" alt="UI Systems badge" />
+  <img src="https://shieldcn.dev/badge/developer_experience-dx-grey.png?variant=outline&size=sm" alt="Developer Experience badge" />
+  <img src="https://shieldcn.dev/badge/product_thinking-ux-purple.png?variant=secondary&size=sm" alt="Product Thinking badge" />
+</p>
+
+## Currently building
+
+**Stepper**  
+A composable UI system for complex flows, onboarding, forms, and wizard-style interfaces. Built around clean APIs, accessibility, and shadcn-style integration.
+
+<p>
+  <a href="https://github.com/francozeta/stepper">
+    <img src="https://shieldcn.dev/github/stars/francozeta/stepper.png?variant=outline&size=sm" alt="Stepper GitHub stars" />
+  </a>
+  <a href="https://github.com/francozeta/stepper">
+    <img src="https://shieldcn.dev/github/release/francozeta/stepper.png?variant=secondary&size=sm" alt="Stepper latest release" />
+  </a>
+  <a href="https://github.com/francozeta/stepper">
+    <img src="https://shieldcn.dev/github/commits/francozeta/stepper.png?variant=outline&size=sm" alt="Stepper commits" />
+  </a>
+</p>
+
+**Kocteau**  
+A social music product for reviews, taste discovery, and human-led recommendations. I am shaping the product loop, interface direction, and frontend architecture.
+
+<p>
+  <a href="https://github.com/francozeta/kocteau">
+    <img src="https://shieldcn.dev/github/stars/francozeta/kocteau.png?variant=outline&size=sm" alt="Kocteau GitHub stars" />
+  </a>
+  <a href="https://github.com/francozeta/kocteau">
+    <img src="https://shieldcn.dev/github/commits/francozeta/kocteau.png?variant=secondary&size=sm" alt="Kocteau commits" />
+  </a>
+</p>
+
+## Focus
+
+- Interface systems that feel consistent, calm, and reusable.
+- Frontend architecture that keeps product work moving without turning messy.
+- Developer experience for components, docs, registries, and contribution flows.
+- Product polish: the small UI decisions that make software feel cared for.
+
+## Selected work
+
+- [Stepper](https://github.com/francozeta/stepper) — a reusable step-based UI system for React and Tailwind workflows.
+- [Kocteau](https://github.com/francozeta/kocteau) — a music discovery product built around reviews, taste signals, and social loops.
+- [Portfolio](https://francozeta.vercel.app) — my personal site and project archive.
+- [shieldcn](https://github.com/jal-co/shieldcn) — contributed UI polish around home page horizontal overflow.
+
+## Stack
+
+TypeScript · React · Next.js · Tailwind CSS · shadcn/ui · Supabase · PostgreSQL · Vercel
+
+## Streak
+
+<img src="https://streak-stats.demolab.com?user=francozeta&theme=dark&hide_border=true&background=00000000" alt="Franco Zeta GitHub streak" />
+
+## Links
+
+[Portfolio](https://francozeta.vercel.app) · [GitHub](https://github.com/francozeta) · [Instagram](https://instagram.com/frxnco.zeta)
+
+Interface, engineering, and taste — aligned.
