@@ -4,11 +4,7 @@ Frontend, product UI, and open-source craft.
 
 I build calm interfaces, developer-friendly systems, and music discovery products shaped by human taste.
 
-<p>
-  <a href="https://francozeta.vercel.app">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-francozeta.vercel.app-ffffff?style=flat&labelColor=111111" />
-  </a>
-</p>
+[Portfolio](https://francozeta.vercel.app)
 
 ## Stack
 
