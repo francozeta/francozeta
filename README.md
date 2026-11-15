@@ -7,4 +7,6 @@
     </picture>
   </a>
 
+  <p><samp>LIMA-BASED SOFTWARE DEVELOPER &amp; PRODUCT DESIGNER.<br>BUILDING THINGS WITH CHARACTER.</samp></p>
+
 </div>
